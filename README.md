@@ -8,7 +8,7 @@ The application takes user inputs and uses them to generate a simple band name.
 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
+
 
 ## Getting Started
 
