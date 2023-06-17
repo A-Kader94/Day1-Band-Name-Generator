@@ -9,18 +9,18 @@ The application takes user inputs and uses them to generate a simple band name.
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 
-
 ## Getting Started
 
 The project is a single Python (.py) file and doesn't require any special installation. You just need to have Python installed on your computer.
 
 To run the script, use Python from the command line:
 
-```bash
-python Band_Name_Generator.py
-`
+\`\`\`bash
+python band_name_generator.py
+\`\`\`
 
 ## Usage
 
 After running the script, simply follow the prompts in the console to generate a band name.
+
 
