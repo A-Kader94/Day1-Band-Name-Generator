@@ -18,7 +18,7 @@ To run the script, use Python from the command line:
 
 ```bash
 python Band_Name_Generator.py
-'''
+`
 
 ## Usage
 
